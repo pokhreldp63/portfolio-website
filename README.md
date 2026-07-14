@@ -16,7 +16,7 @@ Technologies Used
 - JavaScript
 
 Live Demo
-https://yourusername.github.io/portfolio/
+https://pokhreldp63.github.io/portfolio-website/
 
 Author
 Dibas Pokhrel
